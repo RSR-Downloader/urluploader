@@ -17,7 +17,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-URL-Uploader/tree/master)
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+
 
 #### The Hard Way
 
@@ -31,14 +31,14 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/MizoTGBot)
-* [InFoTel Paid Apps](https://telegram.dog/MizoInFoTel14)
-* [InFoTel Group](https://telegram.dog/MizoInFoTel1)
+* [Group 1](https://telegram.dog/thawnthu)
+* [Channel](https://telegram.dog/mizolibrary)
+* [Group 2](https://telegram.dog/mp3andvideodownloader)
 
 ## Credits, and Thanks to
 
-* [@ZauteKm](https://telegram.dog/MizoInFoTel1) for his [AnyDLBot](https://telegram.dog/urlupload_zkbot)
-* [ZauteKm](https://telegram.dog/ZauteKm) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [@rsrmusic](https://telegram.dog/mp3andvideodownloader) for his [channel](https://telegram.dog/mizolibrary)
+* [rsrmusic](https://telegram.dog/rsrmusic) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [MizoInFoTel](https://telegram.dog/MizoInFoTel1) for his [UploaditBot](https://telegram.dog/YoutubeDL_zkbot)
 
 - For FeedBack and Suggestions, please feel free to say in [Mizo InFoTel Group](https://telegram.dog/MizoInFoTel1)
