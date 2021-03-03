@@ -39,9 +39,9 @@ python bot.py
 
 * [@rsrmusic](https://telegram.dog/mp3andvideodownloader) for his [channel](https://telegram.dog/mizolibrary)
 * [rsrmusic](https://telegram.dog/rsrmusic) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [MizoInFoTel](https://telegram.dog/MizoInFoTel1) for his [UploaditBot](https://telegram.dog/YoutubeDL_zkbot)
+* [Mizo Library](https://telegram.dog/mizolibrary) for his [UploaditBot](https://telegram.dog/rsr_bot)
 
-- For FeedBack and Suggestions, please feel free to say in [Mizo InFoTel Group](https://telegram.dog/MizoInFoTel1)
+- For FeedBack and Suggestions, please feel free to say in [RSR Group](https://telegram.dog/mp3andvideodownloader)
 
 #### LICENSE
 - GPLv3
