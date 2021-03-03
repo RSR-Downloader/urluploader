@@ -38,7 +38,7 @@ python bot.py
 ## Credits, and Thanks to
 
 * [@rsrmusic](https://telegram.dog/mp3andvideodownloader) for his [channel](https://telegram.dog/mizolibrary)
-* [rsrmusic](https://telegram.dog/rsrmusic) for his [Pyrogram Library]()
+* [rsrmusic](https://telegram.dog/rsrmusic) for his [Code Source](https://github.com/RSR-Downloader/urluploader/tree/master)
 * [Mizo Library](https://telegram.dog/mizolibrary) for his [UploaditBot](https://telegram.dog/rsrofficial_bot)
 
 - For FeedBack and Suggestions, please feel free to say in [RSR Group](https://telegram.dog/mp3andvideodownloader)
